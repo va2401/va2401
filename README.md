@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @va2401
+- 👋 Hi, I’m Vikram
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning Play framework, Akka toolkit
 - ♟ I follow tech channels on YouTube and enjoy playing online chess (challenge me on [lichess](https://lichess.org/@/cluelessidiot2401) or [chess.com](https://www.chess.com/member/cluelessidiot2401))
